@@ -44,8 +44,8 @@ swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
-workshop_repo: "https://swcarpentry.github.io/python-novice-gapminder/"
-workshop_site: "https://github.com/swcarpentry/python-novice-gapminder"
+workshop_repo: "https://github.com/dmwelch/2019-10-17-Chan_Zuckerberg"
+workshop_site: "https://dmwelch.github.io/2019-10-17-Chan_Zuckerberg"
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
