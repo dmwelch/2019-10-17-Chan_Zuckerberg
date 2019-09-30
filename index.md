@@ -8,7 +8,7 @@ country: "us"
 language: "en"
 latlng: "41.887680,-87.623570"
 humandate: "Oct 17, 2019"    
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 AM - 5:00 PM"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-10-17      
 enddate: 2019-10-17        
 instructor: ["Becca Love", "Dave Welch"] 
