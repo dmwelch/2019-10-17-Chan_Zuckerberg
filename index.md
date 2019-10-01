@@ -285,6 +285,10 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
+  This workshop has <a href="https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html">custom installation instructions</a>.
+
+{% comment %}
+<p>
   To participate in a
   {% if page.carpentry == "swc" %}
   Software Carpentry
@@ -297,12 +301,14 @@ please preview your site before committing, and make sure to run
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
+{% endcomment %}
 <p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
+  In addition, we maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<% comment %>
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
   the workshop will teach Python using something other than
   the Jupyter notebook.
@@ -332,7 +338,7 @@ please preview your site before committing, and make sure to run
     <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
     (some older browsers, including Internet Explorer version 9
     and below, are not).
-  </p>
+  </p>{% endcomment %}
 
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
