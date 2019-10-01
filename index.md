@@ -339,7 +339,7 @@ please preview your site before committing, and make sure to run
     (some older browsers, including Internet Explorer version 9
     and below, are not).
   </p>
-  {% endcomment %}
+ 
 
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
@@ -347,7 +347,8 @@ please preview your site before committing, and make sure to run
       <li role="presentation"><a data-os="macos" href="#python-macos" aria-controls="MacOS" role="tab" data-toggle="tab">MacOS</a></li>
       <li role="presentation"><a data-os="linux" href="#python-linux" aria-controls="Linux" role="tab" data-toggle="tab">Linux</a></li>
     </ul>
-
+ {% endcomment %}
+  
     <div class="tab-content">
       <article role="tabpanel" class="tab-pane active" id="python-windows">
         <a href="https://www.youtube.com/watch?v=xxQ0mzZ8UvA">Video Tutorial</a>
