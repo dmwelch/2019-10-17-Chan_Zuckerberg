@@ -12,7 +12,7 @@ humantime: "9:00 AM - 5:00 PM"    # human-readable times for the workshop (e.g.,
 startdate: 2019-10-17      
 enddate: 2019-10-17        
 instructor: ["Becca Love", "Dave Welch"] 
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Jeremy Freeman", "Nick Sofroniev", "Ambrose Carr", "Sidney Bell"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["margaret.sutherland@chanzuckerberg.com", "aclavijo@chanzuckerberg.com"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 
