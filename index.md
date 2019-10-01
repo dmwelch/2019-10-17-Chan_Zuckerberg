@@ -338,7 +338,8 @@ please preview your site before committing, and make sure to run
     <a href="https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility">supported</a>
     (some older browsers, including Internet Explorer version 9
     and below, are not).
-  </p>{% endcomment %}
+  </p>
+  {% endcomment %}
 
   <div>
     <ul class="nav nav-tabs nav-justified" role="tablist">
