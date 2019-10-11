@@ -63,3 +63,6 @@ these scripts:
     os.name            : posix
     ...
     ~~~
+    
+5.  For day two, follow the steps outlined here: [https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html](https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html)
+
