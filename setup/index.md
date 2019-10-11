@@ -64,5 +64,7 @@ these scripts:
     ...
     ~~~
     
-5.  For day two, follow the steps outlined here: [https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html](https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html)
+### For Day Two:
+
+1.  Follow the steps outlined here for your tutorial: [https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html](https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html)
 
