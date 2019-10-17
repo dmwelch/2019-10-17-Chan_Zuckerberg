@@ -14,7 +14,7 @@ enddate: 2019-10-17
 instructor: ["Becca Love", "Dave Welch"] 
 helper: ["Jeremy Freeman", "Nick Sofroniev", "Ambrose Carr", "Sidney Bell"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["margaret.sutherland@chanzuckerberg.com", "aclavijo@chanzuckerberg.com"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: "https://pad.carpentries.org/2019-10-17-Chan-Zuckerberg"       # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 
 ---
 
