@@ -64,6 +64,9 @@ these scripts:
     ...
     ~~~
     
+    ## Data for tutorials
+    [Get it here](http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip)
+    
 ### For Day Two:
 
 1.  Follow the steps outlined here for your tutorial: [https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html](https://chanzuckerberg.github.io/scRNA-python-workshop/intro/setup.html)
